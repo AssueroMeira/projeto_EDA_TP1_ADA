@@ -92,7 +92,6 @@ listaNomeColunas
 *   Existe alguma correlação entre temperatura e precipitação?
 *   Quais foram os dias mais quentes e mais frios registrados?
 *   Existem evidências de mudanças climáticas no local ao longo do tempo?
-*   Modelo preditivo (K-NN) para prever possibilidade de chuva.
 
 # **Transformação dos Dados.**
 
